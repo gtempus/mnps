@@ -1,7 +1,7 @@
 import React from "react"
-import Header from "../components/Header"
-import Hero from "../components/Hero"
-import Footer from "../components/Footer" // if you have one
+import Header from "../components/header"
+import Hero from "../components/hero"
+import Footer from "../components/footer" // if you have one
 
 const IndexPage = () => {
   return (

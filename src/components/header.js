@@ -21,7 +21,7 @@ const Header = () => {
       <header className="site-header">
         <div className="header-container">
           <div className="logo">
-            <img src="/static/NewColor_Society-1.png" alt="Midwest Native Plant Society" />
+            <img src="/images/NewColor_Society-1.png" alt="Midwest Native Plant Society" />
           </div>
           {/* Hamburger (mobile) */}
           <div className="hamburger" onClick={toggleMenu}>
